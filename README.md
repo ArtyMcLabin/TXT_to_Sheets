@@ -1,6 +1,6 @@
 # TXT to Sheets Converter v0.2
 
-A tool for converting structured text files into Google Sheets format.
+A tool for converting chaotic text files into structured and beautiful CSV / Google Sheets 
 
 ## Usage
 
