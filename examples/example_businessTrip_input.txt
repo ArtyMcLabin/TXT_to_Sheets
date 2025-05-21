@@ -1,0 +1,58 @@
+London Business Trip  (4 nights / 5 days):
+Delta cost: 892$  (compared to regular office work)
+
+Cost Breakdown
+
+Hotel: $420 (4 nights)
+
+Food: $225 for 5 days (Delta from regular meals)
+
+Flight (NY-London round trip): $150~
+
+Uber within London: $45~
+
+Conference pass: $40~
+
+eSIM card (local): $12~
+
+
+---
+
+note: 
+Equipment: $0–200 (not counted as expense since replacing planned upgrades)
+
+
+---------------------------------------
+Q3 prediction (delta compared to Q2):
+
+ enterprise delta 3450$ profit. breakdown:
+
+(income, not profit): minimum 5890.5$ - maximum 12890.5$ (planned payment by Microsoft, Adobe, TechCorp. sceptical realistic: 8557.2$ (the minimum + 45% of the potential)
+
+translates to sceptical profit of 3450$
+(8557.2 * ~40% = 3450$) from enterprise . approx 
+- - - - - - -
+
+startup delta ____ profit. breakdown:
+
+need reply from sarah first. 
+   for that need mike to create the dashboard and add metrics there, and then i should push everybody to validate that dashboard asap.
+
+
+------------
+todo:
+
+4) Q3 profit balances Q2 losses, keep in mind!
+5) prediction of income for Q4. waiting for james prediction. what i predict for startup segment tho?
+6) ignoring startup prepayments as it's for Q4 anyway. and not confirmed.
+
+
+
+---------- Q4 approx:
+
+breakdown: 
+
+enterprise: techcorp 0-3500$
+microsoft: 0$
+adobe: 0$
+oracle: 0$ 

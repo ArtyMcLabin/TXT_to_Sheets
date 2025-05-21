@@ -1,0 +1,42 @@
+Convert the following text into a structured CSV format following these rules:
+
+1. STRUCTURE
+   - Create a hierarchical structure with proper column alignment
+   - Main categories in first column
+   - Subcategories in second column
+   - Details in third column
+   - Costs/quantities in fourth column
+   - Additional notes in fifth column
+
+2. FORMATTING
+   - Use emojis ONLY for main category headers
+   - Capitalize all main category headers
+   - Use proper sentence case for other entries
+   - Format ranges using "to" instead of "-" (e.g., "5 to 10" not "5-10")
+   - Mark calculated totals with [NOT A FORMULA] suffix
+   - Include multiplication calculations in notes column (e.g., "80$ × 5 nights")
+
+3. EMOJI GUIDE
+   - 🏛️ Places/Locations/Sights
+   - 🍽️ Food/Restaurants
+   - 💰 Money/Expenses/Budget
+   - 📞 Contacts/Phone numbers
+   - 📅 Dates/Schedule
+   - ✈️ Travel/Transport
+   - 🏨 Accommodation
+   - 📝 Notes/Misc
+
+4. CSV FORMAT
+   Category,Item,Details,Cost,Notes
+
+Remember:
+- Keep empty cells where no data exists (don't use placeholders)
+- Maintain consistent column structure
+- Group related items together
+- Calculate totals where appropriate
+- Add helpful notes for context
+
+For reference, see examples/example1.txt and examples/example1_output.csv for a complete example of input and output formats.
+
+Input text to convert:
+[PASTE TEXT HERE] 
